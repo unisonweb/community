@@ -1,4 +1,4 @@
-# Unison
+# Unison: Community Hub
 
 This is the official Unison community hub. Welcome!
 
